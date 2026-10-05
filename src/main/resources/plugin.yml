@@ -1,0 +1,8 @@
+name: SecurityLink
+version: 1.0
+main: com.votisworld.securitylink.SecurityLink
+api-version: 1.16
+commands:
+  link:
+    description: Привязка аккаунта к Telegram
+    usage: /link <ник> <код>
